@@ -13,7 +13,7 @@ book:
   repo-actions: [edit, issue]
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
-  cover-image: images/gears-535511_640.jpg
+  # cover-image: images/gears-535511_640.jpg
   google-analytics: "G-M8B7M5MHJW"
   sidebar:
     title: "View the Future"
@@ -28,7 +28,7 @@ book:
   search: true
   page-navigation: true
   page-footer: 
-    center: "Copyright 2022, [Wenyao Liu](https://www.wenyaoliu.com)" 
+    center: "Copyright 2022 [Wenyao Liu](https://www.wenyaoliu.com)" 
     # right: 
     #   - icon: github
     #     href: https://github.com/wenyaoliu
