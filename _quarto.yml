@@ -55,15 +55,45 @@ format:
     theme: 
       # light: default
       # light: cerulean
-      #light: cosmo
-      #light: flatly
-      light: journal
-      #light: flatly
-      #light: flatly
-      #light: flatly
-      #light: flatly
-      dark: darkly
+      # light: cosmo
+      # light: flatly
+      # light: journal
+      # light: litera
+      # light: lumen
+      # light: lux
+      # light: materia
+      # light: minty
+      
+      light: pulse
+      
+      # Colorful theme
+      # light: quartz
+      # light: sandstone
+      # light: simplex
+      
+      # Sketch font
+      # light: sketchy
+      
+      # light: sandstone
+      # light: spacelab
+      
+      # light: sandstone
+      # light: united
+      # light: yeti
+      # light: zephyr
+      
+      # Blue background theme
+      # light: morph
+      
+      # Dark Blue
+      # dark: superhero
+      # dark: vapor
+      
+      # dark: solar
       # dark: cyborg
+      # dark: darkly
+      # dark: slate
+      
     page-layout: full
   # pdf:
   #   documentclass: scrreprt
