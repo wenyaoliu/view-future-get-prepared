@@ -1,7 +1,7 @@
 project:
   type: book
-  #output-dir: publish/docs
-  output-dir: docs
+  output-dir: publish/docs
+  # output-dir: docs
   # output-file: "my-book"
   
   
