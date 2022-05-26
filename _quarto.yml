@@ -14,17 +14,16 @@ website:
         text: Home
       - about.qmd
 
-
-
 book:
   title: "View the Future and Get Prepared"
   author: "Wenyao Liu"
   date: "5/25/2022"
-  repo-url: https://github.com/wenyaoliu/view_future_edit
+  repo-url: https://github.com/wenyaoliu/view_future_get_prepared
   repo-actions: [edit, issue, source]
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
   cover-image: cover.png
+  google-analytics: "G-M8B7M5MHJW"
   sidebar:
     # style: docked
     style: floating
