@@ -1,0 +1,57 @@
+project:
+  type: book
+  output-dir: docs/docs
+  # output-file: "my-book"
+
+book:
+  title: "View the Future and Get Prepared"
+  author: "Wenyao Liu"
+  date: "5/25/2022"
+  repo-url: https://github.com/wenyaoliu/future/docs
+  repo-actions: [edit, issue, source]
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook]
+  cover-image: cover.png
+  sidebar:
+    # style: docked
+    style: floating
+    # background: light
+  search: true
+  page-navigation: true
+  page-footer: 
+    center: "Copyright 2022, [Wenyao Liu](https://www.wenyaoliu.com)" 
+    # right: 
+    #   - icon: github
+    #     href: https://github.com/wenyaoliu
+    #   - icon: linkedin 
+    #     href: https://twitter.com/
+    # 
+  chapters:
+    - index.qmd
+    - 01_intro.qmd
+    - 02_summary.qmd
+    - references.qmd
+    - part: "Part 1"
+      chapters: 
+        - 01_intro.qmd
+        - 02_summary.qmd
+
+bibliography: references.bib
+
+comments:
+  hypothesis: true
+  
+format:
+  html:
+    theme: 
+      # light: cosmo
+      light: flatly
+      dark: darkly
+    page-layout: full
+  # pdf:
+  #   documentclass: scrreprt
+  # epub:
+  #   cover-image: cover.png
+
+editor: visual
+
