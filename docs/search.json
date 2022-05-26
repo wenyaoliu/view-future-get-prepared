@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "View the Future and Get Prepared",
+    "section": "",
+    "text": "When I was young, studying in a village primary school, I concentrated on — whether self-motivated or forced by my parents — studying only two subjects, Math and Chinese language. The number of subjects have increased from two to nine, with the addition of English, Science, Biology, Physics, Chemistry, History, Geometry, and Ideological or Moral. Some classmates felt difficult but for me they kept to be courses. I achieved good grades following the same strategy by listening carefully on classes, understanding the definitions and practicing on some typical problems. Thanks to this strategy and devotional working, I was always the top 1 or 2 among the same years and have been regarded as clever boy.\nThings changed after I went to college. I moved from the village or county high school to the province (just like state in the U.S.) capital. It resembles, though I haven’t realized at that time, the ending of a undisturbed, private-centered and study-only school life. I spent a long time to adjust myself to my surrounding:\nFor many years, I have been wondering, what to learn\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "01_intro.html",
+    "href": "01_intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "02_summary.html",
+    "href": "02_summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]
