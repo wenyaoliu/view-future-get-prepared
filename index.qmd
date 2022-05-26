@@ -1,6 +1,12 @@
-# Preface 前言 {.unnumbered}
+# Preface {.unnumbered}
 
-为什么写这本书？
+## Why writing this book?
+
+When I was young, studying in a village primary school, I concentrated on
+---- whether self-motivated or forced by my parents ---- studying only two
+subjects, Math and Chinese language)
+
+For many years, I have been wondering, what to learn
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
 

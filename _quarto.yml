@@ -4,30 +4,27 @@ project:
   # output-dir: docs
   # output-file: "my-book"
   
-  
-website:
-  title: "View the Future and Get Prepared"
-  navbar:
-    background: primary
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
 book:
   title: "View the Future and Get Prepared"
   author: "Wenyao Liu"
   date: "5/25/2022"
   repo-url: https://github.com/wenyaoliu/view_future_get_prepared
-  repo-actions: [edit, issue, source]
+  # repo-actions: [edit, issue, source]
+  repo-actions: [edit, issue]
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
-  cover-image: cover.png
+  cover-image: images/gears-535511_640.jpg
   google-analytics: "G-M8B7M5MHJW"
   sidebar:
+    title: "View the Future"
+    subtitle: "and Get Prepared"
+    logo: images/paperplane.png
     # style: docked
     style: floating
+    alignment: center
     # background: light
+  margin-header: |
+    ![](images/Paypal_Tip_Me_2.png)
   search: true
   page-navigation: true
   page-footer: 
@@ -56,9 +53,17 @@ comments:
 format:
   html:
     theme: 
-      # light: cosmo
-      light: flatly
+      # light: default
+      # light: cerulean
+      #light: cosmo
+      #light: flatly
+      light: journal
+      #light: flatly
+      #light: flatly
+      #light: flatly
+      #light: flatly
       dark: darkly
+      # dark: cyborg
     page-layout: full
   # pdf:
   #   documentclass: scrreprt
