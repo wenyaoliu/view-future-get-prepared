@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: docs/docs
+  output-dir: docs
   # output-file: "my-book"
 
 book:
