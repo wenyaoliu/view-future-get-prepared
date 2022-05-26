@@ -1,7 +1,20 @@
 project:
   type: book
-  output-dir: publish/docs
+  #output-dir: publish/docs
+  output-dir: docs
   # output-file: "my-book"
+  
+  
+website:
+  title: "View the Future and Get Prepared"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+
 
 book:
   title: "View the Future and Get Prepared"
