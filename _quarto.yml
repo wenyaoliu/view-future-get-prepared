@@ -8,7 +8,7 @@ book:
   title: "View the Future and Get Prepared"
   author: "Wenyao Liu"
   date: "5/25/2022"
-  repo-url: https://github.com/wenyaoliu/view_future_get_prepared
+  repo-url: https://github.com/wenyaoliu/view-future-get-prepared
   # repo-actions: [edit, issue, source]
   repo-actions: [edit, issue]
   downloads: [pdf, epub]
