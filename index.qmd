@@ -1,6 +1,6 @@
-# Preface {.unnumbered}
+# Preface 前言 {.unnumbered}
 
-This is a Quarto book.
+为什么写这本书？
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
