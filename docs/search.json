@@ -4,27 +4,132 @@
     "href": "index.html",
     "title": "View the Future and Get Prepared",
     "section": "",
-    "text": "When I was young, studying in a village primary school, I concentrated on — whether self-motivated or forced by my parents — studying only two subjects, Math and Chinese language. Later in middle school, the number of subjects have increased from two to nine, with the addition of English, Science, Physics, Chemistry, History, Geometry, and Ideological or Moral. Some classmates felt difficult but for me they kept to be just courses. I achieved good grades following the same strategy by listening carefully on classes, understanding the definitions and practicing on some typical problems. Thanks to this strategy and devotional working, I was always the top 1 or 2 among the same years and had been regarded as clever boy.\nThings changed after I went to college, Hunan University, locating in Changsha, China. I moved from the village or county high school to the province (just like state in the U.S.) capital. It resembles, though I haven’t realized at that time, the ending of a undisturbed, private-centered and study-only school life. Hunan University is one of the first class universities in China and it is famous not only for its academic reputation but also its open campus. Although in the U.S. universities were often wall surrounded, it is rare in China for a high level university to distribute its buildings in the city with roads, shops and city residents interspersed. Studying in a open campus with classmates from different parts of China, changing to the various city living styles, and dealing complex college courses, I came to be wondering why people are different, the meaning of life, how to succeed, what to do in the future and what should I learn now.\nThis mystification about the future and present drove me to continue studying for master degree when I graduate, quit from a nice job in Hunan Architecture Design Institute, and pursue PhD degree in the U.S. I made these decisions not because I was fully considered, but because the saying of others and the trend of the peers. These decisions seem intelligent for most people but in fact not excellent as we expected. The sorrows behind the glorious “highly educated oversea” are hard to describe but can be really painful when a man got separated with his parents, lover, relatives and friends for more than three years, not voluntarily but forced by invisible walls due to the COVID 19 pandemic and international political conflicts.\nHowever, when I look back on these decisions after getting through the sorrows and pains, I found there is always a logic deep in my mind, that is learn something and keep learning when not"
+    "text": "This is the website for “View the future and Get Prepared”. This book introduces a framework for life management and decision-making. Despite the existence of famous literature and popular books on this topic, the framework in this book is praised as simple, reasonable, and practicable. Hope you can benefit from this framework and live a better life!\n\n \n\n\n\n\n\n\n\nThis book was created using Quarto publishing system and published online at Github Pages."
   },
   {
-    "objectID": "01_intro.html",
-    "href": "01_intro.html",
-    "title": "1  Introduction",
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "View the Future and Get Prepared",
+    "section": "Usage",
+    "text": "Usage\nYou can click the Edit this page or Report an issue on the right panel. A comment system named Hypothesis is enabled on the right side and you are welcome to comment or highlight."
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "View the Future and Get Prepared",
+    "section": "License",
+    "text": "License\nThis website is free to read, while all rights are reserved for the author. If you’d like to give back, please consider reporting a typo or leaving a pull request at the GitHub respitory."
+  },
+  {
+    "objectID": "01_preface1_why.html",
+    "href": "01_preface1_why.html",
+    "title": "Preface I Why this book",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "In the face of these problems, there shows a list of famous literature and popular books on life management and decision making. They may be profound or practical, for example, Principles by Ray Dalio, The Road Less Traveled by M. Scott Peck, The 7 Habits of Highly Effective People by Stephen R. Covey, Rich Dad Poor Dad by Robert Kiyosaki and Sharon Lechter, etc. The list can go on and on if you continue clicking the recommended books on Amazon.\nYet there is no such book — at least to the best of my knowledge — that integrates all knowledge in one framework. I don’t have the ambition nor the ability to write something more profound than any of these listed books, but I do want to make one thing simple clear and provide a framework that unites these books. When shared with my friends, the framework is praised as reasonable, simple and practicable. After several months of refining, I wrote this book and presented it for your reference.\n\nPh.D Candidate\n\n\nWenyao Liu\n\n\nOklahoma State Universtiy\n\n\n2022-05-27 | Stillwater, OK, U.S.A"
   },
   {
-    "objectID": "02_summary.html",
-    "href": "02_summary.html",
+    "objectID": "02_preface2_experience.html",
+    "href": "02_preface2_experience.html",
+    "title": "Preface II My Experience",
+    "section": "",
+    "text": "When I was young, studying in a village primary school, I concentrated on — whether self-motivated or forced by my parents — studying only two subjects, Math and Chinese language. Later in middle school, the number of subjects have increased from two to nine, with the addition of English, Science, Physics, Chemistry, History, Geometry, and Ideological or Moral. Some classmates felt difficult but I kept them to be just courses. I achieved good grades following the same strategy by listening carefully on classes, understanding the definitions and practicing on some typical problems. Thanks to this strategy and devotional work, I was always in the top 1 or 2 among my peers and had achieved nice grades in Gaokao, a nationwide college entrance exam in China, similar to SAT in the U.S., but hold only one time and is generally only open to Grade 12. I was regarded as intelligent and admitted to college.\nThings changed after I went to college, Hunan University, located in Changsha, China. I moved from the village or county high school to the province (just like state in the U.S.) capital. It resembles, though I haven’t realized at that time, the ending of an undisturbed, private-centered and study-only school life. Hunan University is one of the first-class universities in China and it is famous not only for its academic reputation but also for its open campus. Although in the U.S. universities were often wall surrounded, it is rare in China for a high level university to distribute its buildings in the city with roads, shops and city residents interspersed. Studying on an open campus with classmates from different parts of China, changing to the various city living styles, and dealing with complex college courses, I came to be wondering why people are different, the meaning of life, how to succeed, what to do in the future and what should I learn now.\nThe mystification about the future and present drove me to continue studying for a master’s degree when I graduate, to quit a nice job in Hunan Architecture Design Institute, and to pursue a Ph.D. degree in the U.S. I made these decisions not because I was fully considered, but because the saying of others and the trend of the peers. These decisions seem intelligent for most people but not excellent as we expected. The sorrows behind the glorious “highly educated oversea” is hard to describe but can be painful when a man got separated from his parents, lover, relatives and friends for more than three years, not voluntarily but forced by invisible walls due to the COVID 19 pandemic and international political conflicts.\nHowever, when I look back on these decisions after getting through the sorrows and pains, there is always a logic deep in my mind, that is to learn something and keep learning when wondering which way to go. This logic brings the things learned in mind, while not necessarily bringing wealth or fortune, but at least has a lower chance of making mistakes."
+  },
+  {
+    "objectID": "02_preface2_experience.html#here-is-the-problem",
+    "href": "02_preface2_experience.html#here-is-the-problem",
+    "title": "Preface II My Experience",
+    "section": "Here is the problem…",
+    "text": "Here is the problem…\nThe problem is there are always many things to learn. All I need to learn before university is on the courses. After that, I confronted so many things to learn, either necessary, useful, amazing or interesting. For example, how to cook and eat healthily, how to dress, where to rent a cost-effective apartment, how to transport by train or plane, how to buy and fix cars, how to communicate with others, how to collaborate with people or manage a task, why economics works in this way, what is behind the politics, what is behind the data, whether the stock is increasing, how to make a blog, how to make videos and earn from posts, how Luffy is going to beat Kaido and win the one-piece, how the Marvel universe absorbed Chinese elements… So many things to learn!\nBut the time and energy of one person are always limited. I realized myself easily distracted by the idea to study something “not important” when doing something “important”. Sometimes it gets even more annoying when the “not important” is more interesting 😂. In fact, for a long time, I was criticized by true friends saying that I have a lot of ideas but not digging deep into one specific area. I thank my friends for they true words and nice advice, but it is still really confusing as the “unimportant” for the present may change to “important”. We may find a lot of such examples in history or life experiences that the unexpected popping idea, “unimportant” skills, and “impolite” talks brought out innovations or chances. So here comes the question, is there a unifying decision principle or decision system in mind that can tell us why and what should I do now?"
+  },
+  {
+    "objectID": "02_preface2_experience.html#sec-pre-solution",
+    "href": "02_preface2_experience.html#sec-pre-solution",
+    "title": "Preface II My Experience",
+    "section": "My final solution:",
+    "text": "My final solution:\n\nPh.D Candidate  Wenyao Liu  Oklahoma State Universtiy 2022-05-27 | Stillwater, OK, U.S.A"
+  },
+  {
+    "objectID": "03_overview.html",
+    "href": "03_overview.html",
+    "title": "Overview",
+    "section": "",
+    "text": "As introduced in Preface II Section 3"
+  },
+  {
+    "objectID": "10__________Part_1_View-the-future.html",
+    "href": "10__________Part_1_View-the-future.html",
+    "title": "Part 1 View the Future",
+    "section": "",
+    "text": "This file is for seperate"
+  },
+  {
+    "objectID": "11_models.html",
+    "href": "11_models.html",
+    "title": "1  Summary",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "12_people.html",
+    "href": "12_people.html",
     "title": "2  Summary",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
+    "objectID": "13_economics.html",
+    "href": "13_economics.html",
+    "title": "3  Summary",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "14_techniques.html",
+    "href": "14_techniques.html",
+    "title": "4  Summary",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "20__________Part_2_Get-prepared.html",
+    "href": "20__________Part_2_Get-prepared.html",
+    "title": "Part 2 Get Prepared",
+    "section": "",
+    "text": "This file is for seperate"
+  },
+  {
+    "objectID": "21_self_management.html",
+    "href": "21_self_management.html",
+    "title": "5  Summary",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "22_time_management.html",
+    "href": "22_time_management.html",
+    "title": "6  Summary",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "23_task_management.html",
+    "href": "23_task_management.html",
+    "title": "7  Summary",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "24_resource_management.html",
+    "href": "24_resource_management.html",
+    "title": "8  Summary",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "25_risk_management.html",
+    "href": "25_risk_management.html",
+    "title": "9  Summary",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
   }
 ]

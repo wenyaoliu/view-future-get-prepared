@@ -7,18 +7,18 @@ project:
 book:
   title: "View the Future and Get Prepared"
   author: "Wenyao Liu"
-  date: "5/25/2022"
+  # date: "5/25/2022"
   repo-url: https://github.com/wenyaoliu/view-future-get-prepared
   # repo-actions: [edit, issue, source]
   repo-actions: [edit, issue]
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
-  # cover-image: images/gears-535511_640.jpg
+  cover-image: images/book_cover.png
   google-analytics: "G-M8B7M5MHJW"
   sidebar:
     title: "View the Future"
     subtitle: "and Get Prepared"
-    logo: images/paperplane.png
+    logo: images/paperplane2.png
     # style: docked
     style: floating
     alignment: center
@@ -37,13 +37,35 @@ book:
     # 
   chapters:
     - index.qmd
-    - 01_intro.qmd
-    - 02_summary.qmd
-    - references.qmd
-    - part: "Part 1"
+    - 01_preface1_why.qmd
+    - 02_preface2_experience.qmd
+    - 03_overview.qmd
+      # - 01_intro.qmd
+      # - 02_summary.qmd
+    # - part: index.qmd
+      # chapters:
+        # - 00_why_write.qmd
+        # - 01_intro.qmd
+        # - 02_summary.qmd
+    - part: 10__________Part_1_View-the-future.qmd
       chapters: 
-        - 01_intro.qmd
-        - 02_summary.qmd
+        - 11_models.qmd
+        - 12_people.qmd
+        - 13_economics.qmd
+        - 14_techniques.qmd
+    - part: 20__________Part_2_Get-prepared.qmd
+      chapters: 
+        - 21_self_management.qmd
+        - 22_time_management.qmd
+        - 23_task_management.qmd
+        - 24_resource_management.qmd
+        - 25_risk_management.qmd
+    - 99_acknowledge.qmd
+    - 100_references.qmd
+  # appendices:
+  #       - index.qmd
+  #       - index.qmd
+    
 
 bibliography: references.bib
 
@@ -52,7 +74,7 @@ comments:
   
 format:
   html:
-    theme: 
+    theme: solar
       # light: default
       # light: cerulean
       # light: cosmo
@@ -64,7 +86,7 @@ format:
       # light: materia
       # light: minty
       
-      light: pulse
+      # light: pulse
       
       # Colorful theme
       # light: quartz
