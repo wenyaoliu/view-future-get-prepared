@@ -53,6 +53,7 @@ book:
         - 12_people.qmd
         - 13_economics.qmd
         - 14_techniques.qmd
+        - 15_culture&politics.qmd
     - part: 20__________Part_2_Get-prepared.qmd
       chapters: 
         - 21_self_management.qmd
@@ -60,7 +61,7 @@ book:
         - 23_task_management.qmd
         - 24_resource_management.qmd
         - 25_risk_management.qmd
-    - 99_acknowledge.qmd
+    # - 99_acknowledge.qmd
     - 100_references.qmd
   # appendices:
   #       - index.qmd

@@ -1,7 +1,4 @@
-# Summary
+# Risk management
 
-In summary, this book has no content whatsoever.
+Accept the results
 
-```{r}
-1 + 1
-```

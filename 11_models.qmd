@@ -1,7 +1,10 @@
-# Summary
+# Models
 
-In summary, this book has no content whatsoever.
+## Simple models
 
+## Complicated models
+
+## Balance
 ```{r}
 1 + 1
 ```

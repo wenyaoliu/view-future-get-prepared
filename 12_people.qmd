@@ -1,6 +1,8 @@
-# Summary
+# People
 
-In summary, this book has no content whatsoever.
+The population structure
+
+The consumption pattern
 
 ```{r}
 1 + 1
