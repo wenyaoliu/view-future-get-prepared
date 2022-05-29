@@ -5,6 +5,7 @@
 ## Complicated models
 
 ## Balance
+
 ```{r}
 1 + 1
 ```
