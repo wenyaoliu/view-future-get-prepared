@@ -4,6 +4,3 @@ The population structure
 
 The consumption pattern
 
-```{r}
-1 + 1
-```
